@@ -1,4 +1,4 @@
-# Hi, my name is Ivo Stinghen and welcome to my computer-vision repository!
+<h1>Hi, my name is Ivo Stinghen and welcome to my computer-vision repository! </h1>
 
 
 What is the main structure used here?
@@ -16,8 +16,8 @@ What the algorithms can do?
 
  
 - Face recognition - Haar Cascade
+❮img src="https://github.com/ivostinghen/computer-vision/tree/master/demonstration-images/face.jpg" width="100" ❯
 
-![Face](https://github.com/ivostinghen/computer-vision/tree/master/demonstration-images/face.jpg)
 
 
 - Smile recognition - Haar Cascade 
