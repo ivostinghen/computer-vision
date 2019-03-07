@@ -13,23 +13,23 @@
 
 - Face recognition - Haar Cascade
   
-<img src="demonstration-images/face.jpg" width="200">
+<img src="demonstration-images/face.jpg" width="300">
 
 - Smile recognition - Haar Cascade 
 
 
 
-<img src="demonstration-images/smile.gif" width="200">
+<img src="demonstration-images/smile.gif" width="300">
 
 
 - Object recognition - Single Shot Detector (SSD) 
 
 
-<img src="demonstration-images/boat1.png" width="200">
-<img src="demonstration-images/boat2.png" width="200">
-<img src="demonstration-images/boat3.png" width="200">
+<img src="demonstration-images/boat1.png" width="300">
+<img src="demonstration-images/boat2.png" width="300">
+<img src="demonstration-images/boat3.png" width="300">
 
 - Moving objects recognition - Single Shot Detector (SSD) 
 
-<img src="demonstration-images/dog.gif" width="400">
+<img src="demonstration-images/dog.gif" width="600">
 
