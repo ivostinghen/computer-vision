@@ -1,5 +1,5 @@
 <h3>&#x1F4D9; &nbsp;&nbsp;Hi, my name is Ivo Stinghen and welcome to my computer-vision repository!
-<h4>&#x1F537;&nbsp;&nbsp;Note: This is a free, open source repository, so fell free to download it and contact me for any questions. 
+<h4>&#x1F537;&nbsp;&nbsp;Note: This is a free open source repository, so fell free to download it and contact me for any questions. 
 
 <h4>What is the main structure used here?
 
